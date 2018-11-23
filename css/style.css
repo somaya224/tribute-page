@@ -1,0 +1,45 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #333;
+}
+
+#main {
+	margin: 30px auto;
+	background-color: #eee;
+	text-align: center;
+	padding: 20px;
+}
+#img-div {
+	background-color: #fff;
+	padding: 20px;
+}
+
+#image {
+	max-width: 100%;
+}
+
+#img-caption {
+	margin-top: 10px;
+} 
+
+ul {
+	padding: 25px;
+	max-width: 550px;
+	text-align: left;
+	margin: 0 auto;
+	line-height: 1.5;
+}
+address {
+	margin-top: 15px;
+}
+
+#tail {
+	font-weight: 700;
+	font-size: 1.2em;
+	word-spacing: 0.1em;
+}
+
+
+
+
+
